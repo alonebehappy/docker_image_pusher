@@ -1,1 +1,2 @@
 nginx:alpine
+ubuntu:latest
